@@ -1,8 +1,10 @@
 import { FC } from 'react';
 type MyComponentPropType = { text: string };
+import './MyComponent.css';
+
 const MyComponent: FC<MyComponentPropType> = ({text}) => {
   return (
-      <div>
+      <div className={'target'}>
           {text}
         </div>
   );
