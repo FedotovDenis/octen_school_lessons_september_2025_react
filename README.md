@@ -1,4 +1,5 @@
-# In this section I have analyzed an example of how it works useEffect fetch API in React.
+# In this section I have analyzed an example of how it works services in React with TypeScript and Vite.
+# Lesson 2 Topic 3
 
 
 
