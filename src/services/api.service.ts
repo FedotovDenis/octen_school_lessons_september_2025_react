@@ -10,10 +10,9 @@ const getUser = async (id: string): Promise<IUser> => {
     return await fetch('https://jsonplaceholder.typicode.com/users/ + id')
         .then(value => value.json());
 }
+*/
 
 export {
     getUsers,
-    getUser
+   // getUser
 }
-
- */
