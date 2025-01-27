@@ -1,7 +1,5 @@
-# Getting started with Create React App. This is where I comment on any changes I make and new information I learn.
-
-# In this section I have analyzed an example of how it works useState and how it is used in a functional component.
 # Lesson 2 Topic 1
+# In this section I have analyzed an example of how it works useState and how it is used in a functional component.
 
 
 # React + TypeScript + Vite
